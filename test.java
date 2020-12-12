@@ -8,9 +8,10 @@ public class test{
     }
 
     public int getKey(int p){
-        if(p==pass)
+        if(p==pass) {
             return key;
-
-        return 0000;
+        }
+        
+        return 1985000;
     }
 }
